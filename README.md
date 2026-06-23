@@ -201,8 +201,8 @@ Book Heaven is a modern MERN stack bookstore project designed to demonstrate ful
 ## 👨‍💻 Author
 
 ### Waqas Khan
-Full Stack Python + Javascript Developer
-Computer Science student at UET Peshawar and passionate Full-Stack & AI Developer from Pakistan. I enjoy building modern web applications, backend systems, automation tools, and open-source projects.
+Full Stack Python + Javascript Developer <br>
+studied @UET Peshawar Full-Stack & AI Developer from Pakistan. building modern Web and Desktop Applications , backend systems, automation tools, and open-source projects.
 
 - 🌐 GitHub: https://github.com/Waqas-Khan-CodeCanvas
 - 💼 LinkedIn: https://linkedin.com/in/waqaskhan-dev
