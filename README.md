@@ -1,5 +1,5 @@
 
-# 📚 Book Heaven
+# 📚   CHAPTERFLOW
 
 > A modern full-stack MERN bookstore application with authentication, cart management, favorites, order tracking, and an admin dashboard.
 
@@ -16,6 +16,8 @@ A clean, responsive, and production-ready online bookstore built using the MERN 
 </p>
 
 ---
+<img width="1901" height="841" alt="image" src="https://github.com/user-attachments/assets/8ed2c8bc-b6a9-44fa-8c27-7edbe34c2499" />
+
 
 ## ✨ Features
 
